@@ -1,0 +1,7 @@
+{
+  "name": "lightmatter-vite",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
