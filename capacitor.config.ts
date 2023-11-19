@@ -6,7 +6,7 @@ const config: CapacitorConfig = {
   webDir: 'public/build',
   bundledWebRuntime: false,
   server: {
-    url: "https://lightmatter-vite-black-tree-1935.fly.dev/",
+    url: "https://tesis-vite.fly.dev/",
     cleartext: true  }
 };
 

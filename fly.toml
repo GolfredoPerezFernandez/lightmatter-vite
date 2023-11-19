@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for lightmatter-vite-black-tree-1935 on 2023-11-18T22:30:12-04:00
+# fly.toml app configuration file generated for lightmatter-vite on 2023-11-19T12:10:05-04:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "lightmatter-vite-black-tree-1935"
-primary_region = "ams"
+app = "lightmatter-vite"
+primary_region = "bog"
 
 [build]
 
